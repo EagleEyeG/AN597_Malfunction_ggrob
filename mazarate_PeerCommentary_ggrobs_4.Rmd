@@ -7,7 +7,7 @@ output: html_document
 
 Hi Gianna! 
 
-Firstly, I think you did better than I when it comes to writing the function. You seem to at least understand the use of the if-else statements. And I believe you're right- I don't think you can have two "else" commands in a row with out an "if" inbetween, or else you're giving two outcomes for one situation. 
+Firstly, I think you did better than I when it comes to writing the function. You seem to at least understand the use of the if-else statements. And I believe you're right- I don't think you can have two "else" commands in a row with out an "if" inbetween, or else you're giving two outcomes for one situation. Also, if you are testing for two samples, should p2 and n2 (being the proportion and smaple size of second sample) be null? 
 
 For question 2: I'm not sure what the use of the t-test was. You should be finding the slope of the line, which should be given to you when you summarize your regressions. But also be careful with the data you're working off of; if you plot the two variables against each other you'll see that they aren't exactly linear, so you'll need to transform the data to make it more regression-friendly (hint: it says it in the directions!). 
 
